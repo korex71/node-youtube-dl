@@ -1,4 +1,4 @@
 node_modules
-src/bin/youtube-dl
+bin/youtube-dl
 src/constants.js
 scripts/postinstall.js
